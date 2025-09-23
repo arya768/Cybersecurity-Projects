@@ -6,7 +6,7 @@ Follow these steps to set up **Kali Linux** using **VMware Fusion** on a Mac wit
 
 ## Step-by-Step Guide
 
-1. Go to the [VMware website](https://www.vmware.com).
+1. Go to the VMware website.
 2. Click on the **Download** option.
 3. You will be redirected to the **Broadcom** website.
 4. If you have an account, log in. If not, create a new account.
@@ -20,7 +20,7 @@ Follow these steps to set up **Kali Linux** using **VMware Fusion** on a Mac wit
 
 ## Download Kali Linux
 
-10. Go to the [Kali Linux website](https://www.kali.org/get-kali/).
+10. Go to the Kali Linux website.
 11. Under the **Apple Silicon** section, download the **recommended ARM version**.
 
 ---
