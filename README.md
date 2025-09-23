@@ -46,7 +46,7 @@ Follow these steps to set up **Kali Linux** using **VMware Fusion** on a Mac wit
 
 ## Done!
 
-
+PICTURE BELOW TO HELP ||
 <img width="1156" height="379" alt="Screenshot 2025-09-23 at 11 39 58 AM" src="https://github.com/user-attachments/assets/ac46e4f9-c9dd-47bb-b7b3-179fc81e9b6b" />
 
 <img width="546" height="206" alt="Screenshot 2025-09-23 at 12 13 27 PM" src="https://github.com/user-attachments/assets/d8cdfc45-04b2-4b35-805f-9697951ea9df" />
