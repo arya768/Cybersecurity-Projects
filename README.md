@@ -31,18 +31,31 @@
 
 
 
+<img width="1023" height="730" alt="Screenshot 2025-09-23 at 1 41 32 PM" src="https://github.com/user-attachments/assets/1f243b93-ba13-4fd5-a02b-8a2248eb87ad" />
+
+language 
+country 
+keyboard 
 
 
+<img width="919" height="264" alt="Screenshot 2025-09-23 at 1 42 55 PM" src="https://github.com/user-attachments/assets/a4292339-7398-4626-ab03-7b7a2e990f34" />
+
+domain name 
+
+<img width="1003" height="573" alt="Screenshot 2025-09-23 at 1 43 31 PM" src="https://github.com/user-attachments/assets/7737320e-513d-4cfb-873f-849f2b11a639" />
+
+keep it at the recomended
+
+<img width="1013" height="518" alt="Screenshot 2025-09-23 at 1 45 54 PM" src="https://github.com/user-attachments/assets/f25c8aa9-fda1-4290-a26d-242c143b123b" />
 
 
+<img width="1193" height="713" alt="Screenshot 2025-09-23 at 1 58 27 PM" src="https://github.com/user-attachments/assets/27eabe00-cbf7-4181-b600-cbb9c5a0694d" />
 
 
+<img width="1262" height="707" alt="Screenshot 2025-09-23 at 1 58 41 PM" src="https://github.com/user-attachments/assets/8ec23a50-8a44-4cd8-a639-c418e401bc37" />
 
 
-
-
-
-
+<img width="641" height="434" alt="Screenshot 2025-09-23 at 2 11 14 PM" src="https://github.com/user-attachments/assets/7ec2e5fa-f2c8-4910-93e8-79dc773d974c" />
 
 
 
