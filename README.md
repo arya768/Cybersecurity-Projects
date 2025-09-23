@@ -1,43 +1,35 @@
 # Homelabbing- Download KaliLinux on Mac with VMWare
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>How to Install VMware Fusion and Kali Linux on Mac (Apple Silicon)</title>
-</head>
-<body>
-  <h1>Installing VMware Fusion and Kali Linux on a Mac with Apple Silicon</h1>
-
-  <ol>
-    <li>Go to the <a href="https://www.vmware.com">VMware website</a>.</li>
-    <li>Choose the <strong>Download</strong> option.</li>
-    <li>You will be redirected to the <strong>Broadcom</strong> website.</li>
-    <li>If you already have an account, log in. Otherwise, create a new account.</li>
-    <li>Once logged in, look for the options on the left sidebar.</li>
-    <li>Click on <strong>Downloads</strong> and navigate to the <strong>Free Products</strong> section.</li>
-    <li>Select <strong>VMware Fusion</strong>.</li>
-    <li>Choose the version compatible with macOS and Apple Silicon (ARM).</li>
-    <li>Accept the license agreement and download the installer.</li>
-    <li>Next, go to the <a href="https://www.kali.org/get-kali/">Kali Linux website</a>.</li>
-    <li>Download the recommended version for <strong>Apple Silicon</strong>.</li>
-    <li>Once both files are downloaded, open VMware Fusion.</li>
-    <li>When prompted to select the installation method, choose <strong>“Install from disc or image.”</strong></li>
-    <li>Drag and drop or browse to select the Kali Linux ISO file.</li>
-    <li>Choose the operating system as <strong>Debian 12 – ARM64</strong> and continue.</li>
-    <li>When the Kali installer loads, press <strong>Enter</strong> to begin.</li>
-    <li>Follow the setup instructions: enter a hostname, domain name, and password.
-      <br><em>If you forget the password, don’t worry — there is a way to reset it.</em>
-    </li>
-    <li>Continue through the installation process by selecting <strong>Continue</strong> where prompted.</li>
-    <li>Once the installation is complete, Kali Linux will be ready to use.</li>
-    <li>Log in with your credentials, and you're all set!</li>
-  </ol>
-
-  <p><strong>Tip:</strong> After logging in, it's a good idea to run system updates and install VMware Tools for better performance.</p>
-</body>
-</html>
-
+🛠️ How to Install VMware Fusion and Kali Linux on Mac (Apple Silicon)
+Follow these steps to set up Kali Linux using VMware Fusion on a Mac with an Apple Silicon (M1/M2/M3) chip.
+✅ Step-by-Step Guide
+Go to the VMware website.
+Click on the Download option.
+You will be redirected to the Broadcom website.
+If you have an account, log in. If not, create a new account.
+Once logged in, navigate to the left-hand menu.
+Click Downloads, then go to the Free Products section.
+Select VMware Fusion.
+Choose the version that supports macOS + Apple Silicon (ARM).
+Accept the license agreement and click Download.
+🐱‍💻 Download Kali Linux
+Go to the Kali Linux website.
+Under the Apple Silicon section, download the recommended ARM version.
+💽 Install Kali on VMware Fusion
+Open VMware Fusion.
+When prompted, select “Install from disc or image.”
+Drag and drop (or browse to) the Kali Linux ISO you downloaded.
+When asked to choose an operating system, select:
+Debian 12 – ARM 64-bit
+Start the virtual machine. The Kali installer will launch — press Enter to begin.
+Follow the installation steps:
+Set the hostname
+Domain name (optional)
+Choose a password
+⚠️ If you forget your password, don’t worry — it can be reset later through recovery mode.
+Continue through the installation prompts.
+Once completed, Kali will finish setup and reboot.
+Log in with the credentials you set — and you’re all set!
 
 <img width="1156" height="379" alt="Screenshot 2025-09-23 at 11 39 58 AM" src="https://github.com/user-attachments/assets/ac46e4f9-c9dd-47bb-b7b3-179fc81e9b6b" />
 
