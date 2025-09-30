@@ -1,1 +1,1 @@
-# Practicing OverTheWire Bandit CTF to better learn linux command: join the party 🤩🥳
+# 🏴‍☠️Practicing OverTheWire Bandit CTF to better learn linux command: join the party 🤩🥳
