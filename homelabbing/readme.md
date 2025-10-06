@@ -1,4 +1,4 @@
-# How to Install VMware Fusion and Kali Linux on Mac (Apple Silicon)
+# How to Install VMware Fusion and Kali Linux on Mac (Apple Silicon) With Pictures!
 
 Follow these steps to set up **Kali Linux** using **VMware Fusion** on a Mac with an **Apple Silicon (M1/M2/M3)** chip.
 
@@ -41,6 +41,8 @@ Follow these steps to set up **Kali Linux** using **VMware Fusion** on a Mac wit
 18. Continue through the installation prompts.
 19. Once completed, Kali will finish setup and reboot.
 20. Log in with the credentials you set — and you’re all set!
+
+PICTURES BELOW
 
 ---
 <img width="1156" height="379" alt="1" src="https://github.com/user-attachments/assets/518f9c81-e72f-4a2b-b228-907d99f1dff7" />
