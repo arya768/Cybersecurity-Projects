@@ -43,3 +43,6 @@ Follow these steps to set up **Kali Linux** using **VMware Fusion** on a Mac wit
 20. Log in with the credentials you set — and you’re all set!
 
 ---
+<img width="1156" height="379" alt="1" src="https://github.com/user-attachments/assets/518f9c81-e72f-4a2b-b228-907d99f1dff7" />
+
+
